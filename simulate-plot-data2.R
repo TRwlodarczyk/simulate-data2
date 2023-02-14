@@ -19,3 +19,5 @@ plot(x=x, y=y)
 plot(density(x))
 plot(density(y))
 #shapiro.test(x)
+#
+#
